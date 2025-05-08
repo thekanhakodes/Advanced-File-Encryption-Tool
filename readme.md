@@ -73,12 +73,6 @@ This Python-based application provides a secure way to encrypt and decrypt files
 
 ---
 
-## 🖼️ UI Preview
-
-> *(Optional: Insert a screenshot or GIF of the app here)*
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
